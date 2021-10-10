@@ -5,8 +5,8 @@
 -->
 
 - 💻 I’m currently working as an application and test management speacialist.
-- 📱 I am very interested in android development.
-- 🚀 I am always willing to learn new technologies.
+- 📱 I'm very interested in android development.
+- 🚀 I'm always willing to learn new technologies.
 
 ### 📩 Connect with me:
 
