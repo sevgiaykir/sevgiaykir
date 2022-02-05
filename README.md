@@ -4,7 +4,7 @@
 **sevgiaykir/sevgiaykir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 💻 I’m currently working as an application and test management specialist.
+- 💻 I’m currently working as a junior software developer.
 - 📱   I'm very interested in android development.
 - 🚀 I'm always willing to learn new technologies.
 
