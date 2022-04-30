@@ -5,7 +5,7 @@
 -->
 
 - 💻 I’m currently working as a junior software developer.
-- 📱   I'm very interested in android development.
+- 📱   I'm very interested in web and android development.
 - 🚀 I'm always willing to learn new technologies.
 
 ### 📩 Connect with me:
